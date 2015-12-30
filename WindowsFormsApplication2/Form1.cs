@@ -18,7 +18,7 @@ namespace WindowsFormsApplication2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Console.Write("hel1_1");
+            Console.Write("hel1_2");
         }
     }
 }
